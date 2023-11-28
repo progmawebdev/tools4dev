@@ -1,5 +1,6 @@
 # Functions Text Tools
-() Lowercase
-() UpperCase
+() Lowercase 
+() UpperCase 
 () Capitalize
 
+# Link: https://progmawebdev.github.io/tools4dev/
