@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.output > textarea{
+    width: 200px;
+    height: 200px;
+
+}
+.btn-convert{
+    padding: 20px;
+}
